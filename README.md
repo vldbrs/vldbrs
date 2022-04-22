@@ -1,4 +1,6 @@
-### Hi there 👋
+## Hi there, Vladimir Berson
+#### Founder & CEO
+##### Cyber Security Expert
 
 <!--
 **bersonvladimir/bersonvladimir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
