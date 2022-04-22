@@ -1,5 +1,5 @@
-## Hi there, Vladimir Berson
-#### Founder & CEO
+## Hi there, I'm Vladimir Berson
+#### Founder & CEO at <a href="https://github.com/Puma-Labs">@Puma-Labs</a>
 ##### Cyber Security Expert
 
 <!--
