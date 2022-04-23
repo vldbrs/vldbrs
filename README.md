@@ -7,22 +7,26 @@ A remote-first digital agency with offices in Sweden, Israel and New York, <br>
 We take ideas from market research to scaled robust web & mobile apps. <br> 
 https://pumalabs.io/
 
-#### Connect with me:
+### Connect with me:
 
 <a href="https://github.com/bersonvladimir">
-<img src="https://cdn4.iconfinder.com/data/icons/iconsimple-logotypes/512/github-512.png" style="width:25px;height:25px;">
+<img src="https://cdn4.iconfinder.com/data/icons/iconsimple-logotypes/512/github-512.png" style="width:35px;height:35px;">
   
 <a href="https://www.linkedin.com/in/berson-vladimir">
-<img src="https://www.picng.com/upload/linkedin/png_linkedin_64396.png" style="width:25px;height:25px;">
+<img src="https://www.picng.com/upload/linkedin/png_linkedin_64396.png" style="width:35px;height:35px;">
   
 <a href="https://twitter.com/bersonvladimir">
 <img src="https://www.pngkey.com/png/full/2-27646_twitter-logo-png-transparent-background-logo-twitter-png.png" 
-style="width:25px;height:25px;">  
+style="width:35px;height:35px;">  
   
 <a href="https://www.facebook.com/berson.vladimir">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Facebook_Logo_%282019%29.png/1024px-Facebook_Logo_%282019%29.png" 
-style="width:25px;height:25px;">
-
+style="width:35px;height:35px;">
+  
+<a href="mailto:vb@pumalabs.io">
+<img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwebstockreview.net%2Fimages%2Femail-clipart-mail-icon-7.png&f=1&nofb=1" 
+style="width:35px;height:35px;">
+ 
 <!--
 **bersonvladimir/bersonvladimir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
