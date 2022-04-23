@@ -10,16 +10,18 @@ https://pumalabs.io/
 #### Connect with me:
 
 <a href="https://github.com/bersonvladimir">
-<img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn.iconscout.com%2Ficon%2Ffree%2Fpng-512%2Fgithub-153-675523.png&f=1&nofb=1" style="width:25px;height:25px;">
+<img src="https://cdn4.iconfinder.com/data/icons/iconsimple-logotypes/512/github-512.png" style="width:25px;height:25px;">
   
 <a href="https://www.linkedin.com/in/berson-vladimir">
-<img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn.onlinewebfonts.com%2Fsvg%2Fimg_4650.png&f=1&nofb=1" style="width:25px;height:25px;">
+<img src="https://www.picng.com/upload/linkedin/png_linkedin_64396.png" style="width:25px;height:25px;">
   
 <a href="https://twitter.com/bersonvladimir">
-<img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fclipartcraft.com%2Fimages%2Ftwitter-logo-png-round-6.png&f=1&nofb=1" style="width:25px;height:25px;">  
+<img src="https://www.pngkey.com/png/full/2-27646_twitter-logo-png-transparent-background-logo-twitter-png.png" 
+style="width:25px;height:25px;">  
   
 <a href="https://www.facebook.com/berson.vladimir">
-<img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.freeiconspng.com%2Fuploads%2Ffacebook-black-radius-transparent-26.png&f=1&nofb=1" style="width:25px;height:25px;">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Facebook_Logo_%282019%29.png/1024px-Facebook_Logo_%282019%29.png" 
+style="width:25px;height:25px;">
 
 <!--
 **bersonvladimir/bersonvladimir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
