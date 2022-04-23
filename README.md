@@ -1,6 +1,25 @@
 ## Hi there, I'm Vladimir Berson
 #### Founder & CEO at <a href="https://github.com/Puma-Labs">@Puma-Labs</a>
-##### Cyber Security Expert
+
+Puma Labs - Product R&D for Entrepreneurs & Startups <br>
+Growth Through Digital Product Obsession <br>
+A remote-first digital agency with offices in Sweden, Israel and New York, <br> 
+We take ideas from market research to scaled robust web & mobile apps. <br> 
+https://pumalabs.io/
+
+Connect with me:
+
+<a href="https://github.com/bersonvladimir">
+<img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn.iconscout.com%2Ficon%2Ffree%2Fpng-512%2Fgithub-153-675523.png&f=1&nofb=1" style="width:32px;height:32px;">
+  
+<a href="https://www.linkedin.com/in/berson-vladimir">
+<img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn.onlinewebfonts.com%2Fsvg%2Fimg_4650.png&f=1&nofb=1" style="width:32px;height:32px;">
+  
+<a href="https://github.com/bersonvladimir">
+<img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn.iconscout.com%2Ficon%2Ffree%2Fpng-512%2Fgithub-153-675523.png&f=1&nofb=1" style="width:32px;height:32px;">
+  
+<a href="https://github.com/bersonvladimir">
+<img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn.iconscout.com%2Ficon%2Ffree%2Fpng-512%2Fgithub-153-675523.png&f=1&nofb=1" style="width:32px;height:32px;">
 
 <!--
 **bersonvladimir/bersonvladimir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
