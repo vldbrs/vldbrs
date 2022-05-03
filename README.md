@@ -10,7 +10,9 @@ https://pumalabs.io/ <br>
 
 <hr>
 
-#### Connect with me:
+#### 💼 About Me:
+
+#### 🤝🏻 Connect with me:
 
 <a href="https://github.com/bersonvladimir">
 <img src="https://cdn4.iconfinder.com/data/icons/iconsimple-logotypes/512/github-512.png" style="width:35px;height:35px;">
