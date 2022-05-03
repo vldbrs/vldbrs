@@ -8,8 +8,9 @@ We take ideas from market research to scaled robust web & mobile apps. <br>
 https://pumalabs.io/ <br>
 <img src="https://github.com/bersonvladimir/bersonvladimir/blob/main/Logo.png?raw=true" alt="PumaLabs.io" width="130" height="130"> <br>
 
+<hr>
 
-### Connect with me:
+#### Connect with me:
 
 <a href="https://github.com/bersonvladimir">
 <img src="https://cdn4.iconfinder.com/data/icons/iconsimple-logotypes/512/github-512.png" style="width:35px;height:35px;">
@@ -31,7 +32,7 @@ style="width:35px;height:35px;">
  
 <br>
   
-### Best Regards
+#### Best Regards
 <img src="https://github.com/bersonvladimir/bersonvladimir/blob/main/vladimir%20berson.png?raw=true" alt="Vladimir Berson" width="400" height="150"> <br>
   
 
