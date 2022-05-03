@@ -32,7 +32,9 @@ style="width:35px;height:35px;">
 <br>
   
 ### Best Regards
+<img src="https://github.com/bersonvladimir/bersonvladimir/blob/main/Vladimir-Berson-black-high-res.png?raw=true" alt="Vladimir Berson" width="400" height="300"> <br>
   
+
 <!--
 **bersonvladimir/bersonvladimir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
