@@ -1,4 +1,4 @@
-## Hi there, I'm Vladimir Berson
+### Hi there, I'm Vladimir Berson
 #### Founder & CEO at <a href="https://github.com/Puma-Labs">@Puma-Labs</a>
 
 Puma Labs - Product R&D for Entrepreneurs & Startups, <br>
@@ -11,8 +11,7 @@ https://pumalabs.io/ <br>
 <hr size="31" width="100%" color="gray">
 
 #### 💼 About Me:
-
-<img src="https://github.com/bersonvladimir/bersonvladimir/blob/main/vladimir-berson-photo-1.png?raw=true" alt="berson photo" width="20%">  <br> 
+ 
 I am an Entrepreneur and Cyber Security Expert from Haifa, Israel.
 <br>
 ▪️
@@ -42,11 +41,12 @@ style="width:35px;height:35px;">
 <a href="mailto:vb@pumalabs.io">
 <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwebstockreview.net%2Fimages%2Femail-clipart-mail-icon-7.png&f=1&nofb=1" 
 style="width:35px;height:35px;">
- 
 <br>
+<hr size="31" width="100%" color="gray">
   
-#### Best Regards
-<img src="https://github.com/bersonvladimir/bersonvladimir/blob/main/vladimir%20berson.png?raw=true" alt="Vladimir Berson" width="400" height="150"> <br>
+### Best Regards
+<img src="https://github.com/bersonvladimir/bersonvladimir/blob/main/vladimir-berson-photo-1.png?raw=true" alt="berson photo" width="20%"> 
+<img src="https://github.com/bersonvladimir/bersonvladimir/blob/main/vladimir%20berson.png?raw=true" alt="Vladimir Berson" width="50%""> <br>
   
 
 <!--
