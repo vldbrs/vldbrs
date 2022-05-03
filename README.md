@@ -29,6 +29,10 @@ style="width:35px;height:35px;">
 <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwebstockreview.net%2Fimages%2Femail-clipart-mail-icon-7.png&f=1&nofb=1" 
 style="width:35px;height:35px;">
  
+<br>
+  
+### Best Regards
+  
 <!--
 **bersonvladimir/bersonvladimir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
