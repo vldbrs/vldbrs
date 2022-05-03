@@ -6,11 +6,13 @@ Growth Through Digital Product Obsession, <br>
 A remote-first digital agency with offices in Sweden, Israel and New York, <br> 
 We take ideas from market research to scaled robust web & mobile apps. <br> 
 https://pumalabs.io/ <br>
-<img src="https://github.com/bersonvladimir/bersonvladimir/blob/main/gif-puma-labs.gif?raw=true" alt="funny GIF" width="100%">  <br>
+<img src="https://github.com/bersonvladimir/bersonvladimir/blob/main/gif-puma-labs.gif?raw=true" alt="pumalabs" width="100%">  <br>
 
 <hr size="31" width="100%" color="gray">
 
 #### 💼 About Me:
+
+<img src="https://github.com/bersonvladimir/bersonvladimir/blob/main/vladimir-berson-photo-1.png?raw=true" alt="berson photo" width="20%">  <br> 
 I am an Entrepreneur and Cyber Security Expert from Haifa, Israel.
 <br>
 ▪️
