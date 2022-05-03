@@ -45,7 +45,7 @@ style="width:35px;height:35px;">
 <hr size="31" width="100%" color="gray">
   
 #### ✅ Best Regards
-<img src="https://github.com/bersonvladimir/bersonvladimir/blob/main/Best_Regards.gif?raw=true" alt="berson photo" width="100%"> <br>
+<img src="" alt="berson photo" width="100%"> <br>
   
 
 <!--
