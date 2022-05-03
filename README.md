@@ -1,16 +1,25 @@
 ## Hi there, I'm Vladimir Berson
 #### Founder & CEO at <a href="https://github.com/Puma-Labs">@Puma-Labs</a>
 
-Puma Labs - Product R&D for Entrepreneurs & Startups <br>
-Growth Through Digital Product Obsession <br>
+Puma Labs - Product R&D for Entrepreneurs & Startups, <br>
+Growth Through Digital Product Obsession, <br>
 A remote-first digital agency with offices in Sweden, Israel and New York, <br> 
 We take ideas from market research to scaled robust web & mobile apps. <br> 
 https://pumalabs.io/ <br>
 <img src="https://github.com/bersonvladimir/bersonvladimir/blob/main/Logo.png?raw=true" alt="PumaLabs.io" width="130" height="130"> <br>
 
-<hr>
+<hr size="31" width="50%" color="gray">
 
 #### 💼 About Me:
+I am an Entrepreneur and Cyber Security Expert from Haifa, Israel.
+<br>
+▪️
+<br>
+▪️
+<br>
+▪️
+<br>
+▪️
 
 #### 🤝🏻 Connect with me:
 
