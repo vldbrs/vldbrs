@@ -5,9 +5,11 @@ Puma Labs - Product R&D for Entrepreneurs & Startups, <br>
 Growth Through Digital Product Obsession, <br>
 A remote-first digital agency with offices in Sweden, Israel and New York, <br> 
 We take ideas from market research to scaled robust web & mobile apps. <br> 
-https://pumalabs.io/ <br>
+ <br>
 <img src="https://github.com/bersonvladimir/bersonvladimir/blob/main/gif-puma-labs.gif?raw=true" alt="pumalabs" width="100%">  <br>
-
+<div align="center">
+  https://pumalabs.io/ <br>
+</div>
 <hr size="31" width="100%" color="gray">
 
 #### 💼 About Me:
@@ -21,6 +23,9 @@ I am an Entrepreneur and Cyber Security Expert from Haifa, Israel.
 ▪️
 <br>
 ▪️
+#### :fire: My Stats:
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=bersonvladimir&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats) <br>
+
 
 #### 🤝🏻 Connect with me:
 
