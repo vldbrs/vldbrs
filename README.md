@@ -15,14 +15,6 @@ We take ideas from market research to scaled robust web & mobile apps. <br>
 #### 💼 About Me:
  
 I am an Entrepreneur and Cyber Security Expert from Haifa, Israel.
-<br>
-▪️
-<br>
-▪️
-<br>
-▪️
-<br>
-▪️
 
 #### 🤝🏻 Connect with me:
 
