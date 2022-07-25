@@ -10,27 +10,28 @@ Former owner of a hotel chain in Thailand, Phuket (sold by Vladimir in 2012 resp
 
 #### For any business proposal сonnect with me:
 My email: <label for="email">vb@pumalabs.io</label> <br>
-Phone: 
+Phone: +972 547 999 309
 
-<a href="https://github.com/bersonvladimir">
-<img src="https://cdn4.iconfinder.com/data/icons/iconsimple-logotypes/512/github-512.png" style="width:35px;height:35px;">
+#### Follow me on social media:
   
 <a href="https://www.linkedin.com/in/berson-vladimir">
 <img src="https://www.picng.com/upload/linkedin/png_linkedin_64396.png" style="width:35px;height:35px;">
-  
+
 <a href="https://twitter.com/bersonvladimir">
 <img src="https://www.pngkey.com/png/full/2-27646_twitter-logo-png-transparent-background-logo-twitter-png.png" 
-style="width:35px;height:35px;">  
+style="width:35px;height:35px;">
+
+<a href="https://www.youtube.com/channel/UCDt5F3B01zsWDla4LfvH-cw">
+<img src="https://i.pinimg.com/originals/6a/42/04/6a4204f04496559aa27101d25983d0f0.png" style="width:35px;height:35px;">
   
 <a href="https://www.facebook.com/berson.vladimir">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Facebook_Logo_%282019%29.png/1024px-Facebook_Logo_%282019%29.png" 
 style="width:35px;height:35px;">
-  
-<a href="mailto:vb@pumalabs.io">
-<img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwebstockreview.net%2Fimages%2Femail-clipart-mail-icon-7.png&f=1&nofb=1" 
+
+<a href="https://www.instagram.com/berson.vladimir/">
+<img src="https://www.pngmart.com/files/13/Instagram-Logo-PNG-Image-1.png" 
 style="width:35px;height:35px;">
-<br>
   
-#### Best Regards
+## Best Regards
 <img src="https://github.com/bersonvladimir/bersonvladimir/blob/main/best_regards_01.gif?raw=true" alt="berson photo" width="100%"> <br>
   
