@@ -7,7 +7,7 @@ Growth Through Digital Product Obsession, <br>
 A remote-first digital agency with offices in Sweden, Israel and New York, <br> 
 We take ideas from market research to scaled robust web & mobile apps. <br> 
 <br>
-<img src="https://github.com/bersonvladimir/bersonvladimir/blob/main/gif-puma-labs.gif?raw=true" alt="pumalabs" width="100%">  <br>
+
 </div>
 
 <hr size="31" width="100%" color="gray">
