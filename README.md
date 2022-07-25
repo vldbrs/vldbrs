@@ -12,11 +12,11 @@ We take ideas from market research to scaled robust web & mobile apps. <br>
 
 <hr size="31" width="100%" color="gray">
 
-#### 💼 About Me:
+#### About Me:
  
 I am an Entrepreneur and Cyber Security Expert from Haifa, Israel.
 
-#### 🤝🏻 Connect with me:
+#### Connect with me:
 
 <a href="https://github.com/bersonvladimir">
 <img src="https://cdn4.iconfinder.com/data/icons/iconsimple-logotypes/512/github-512.png" style="width:35px;height:35px;">
@@ -38,6 +38,6 @@ style="width:35px;height:35px;">
 <br>
 <hr size="31" width="100%" color="gray">
   
-#### ✅ Best Regards
+#### Best Regards
 <img src="https://github.com/bersonvladimir/bersonvladimir/blob/main/Best-Regards.gif?raw=true" alt="berson photo" width="100%"> <br>
   
