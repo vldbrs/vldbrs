@@ -1,22 +1,16 @@
-### Hi there, I'm Vladimir Berson
-#### Founder & CEO at <a href="https://pumalabs.io/">PumaLabs</a>
+## Hi there, I'm Vladimir Berson
 
-<div align="left">
-Puma Labs - Product R&D for Entrepreneurs & Startups, <br>
-Growth Through Digital Product Obsession, <br>
-A remote-first digital agency with offices in Sweden, Israel and New York, <br> 
-We take ideas from market research to scaled robust web & mobile apps. <br> 
-<br>
-
-</div>
-
-<hr size="31" width="100%" color="gray">
-
-#### About Me:
+#### Briefly About Me:
  
-I am an Entrepreneur and Cyber Security Expert from Haifa, Israel.
+I am a Businessman with a Cyber Security background from Haifa, Israel. <br>
+Founder and CEO of <a href="https://pumalabs.io/">PumaLabs</a> — boutique studio of Web and App development, <br>
+CEO of Core Alliance — advanced cyber security solutions, <br>
+Co-Founder of Bizon Fund — Investments in Real Estates, <br>
+Former owner of a hotel chain in Thailand, Phuket (sold by Vladimir in 2012 respectively). <br>
 
-#### Connect with me:
+#### For any business proposal сonnect with me:
+My email: <label for="email">vb@pumalabs.io</label> <br>
+Phone: 
 
 <a href="https://github.com/bersonvladimir">
 <img src="https://cdn4.iconfinder.com/data/icons/iconsimple-logotypes/512/github-512.png" style="width:35px;height:35px;">
@@ -36,7 +30,6 @@ style="width:35px;height:35px;">
 <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwebstockreview.net%2Fimages%2Femail-clipart-mail-icon-7.png&f=1&nofb=1" 
 style="width:35px;height:35px;">
 <br>
-<hr size="31" width="100%" color="gray">
   
 #### Best Regards
 <img src="https://github.com/bersonvladimir/bersonvladimir/blob/main/Best-Regards.gif?raw=true" alt="berson photo" width="100%"> <br>
