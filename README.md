@@ -32,5 +32,5 @@ style="width:35px;height:35px;">
 <br>
   
 #### Best Regards
-<img src="https://github.com/bersonvladimir/bersonvladimir/blob/main/Best-Regards.gif?raw=true" alt="berson photo" width="100%"> <br>
+<img src="https://github.com/bersonvladimir/bersonvladimir/blob/main/best_regards.gif?raw=true" alt="berson photo" width="100%"> <br>
   
