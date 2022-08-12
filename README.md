@@ -6,7 +6,6 @@ I am a Businessman with a Cyber Security background from Haifa, Israel. <br>
 Founder and CEO of <a href="https://pumalabs.io/">PumaLabs</a> — boutique studio of Web and App development, <br>
 CEO of Core Alliance — advanced cyber security solutions, <br>
 Co-Founder of Bizon Fund — Investments in Real Estates, <br>
-Former owner of a hotel chain in Thailand, Phuket (sold in 2012 respectively). <br>
 
 #### For any business proposal сonnect with me:
 My email: <label for="email">vb@pumalabs.io</label> <br>
