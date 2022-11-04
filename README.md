@@ -4,7 +4,7 @@
  
 I am a Businessman with a Cyber Security background from Haifa, Israel. <br>
 Founder and CEO of <a href="https://pumalabs.io/">PumaLabs</a> — boutique studio of Web and App development, <br>
-Co-Founder and CEO of Bizon Fund — Investment Fund, <br>
+Co-Founder and CEO of <a href="https://bizonfund.com/">Bizon Fund</a> — Investment Fund, <br>
 
 #### For any business proposal сonnect with me:
 My email: <label for="email">v@berson.io</label> <br>
