@@ -7,7 +7,7 @@ Founder and CEO of <a href="https://pumalabs.io/">PumaLabs</a> — boutique stud
 Co-Founder and CEO of Bizon Fund — Investment Fund, <br>
 
 #### For any business proposal сonnect with me:
-My email: <label for="email">vb@pumalabs.io</label> <br>
+My email: <label for="email">v@berson.io</label> <br>
 Phone: +972 547 999 309
 
 #### Follow me on social media:
