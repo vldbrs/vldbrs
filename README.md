@@ -30,6 +30,3 @@ style="width:35px;height:35px;">
 <img src="https://www.pngmart.com/files/13/Instagram-Logo-PNG-Image-1.png" 
 style="width:35px;height:35px;">
   
-## Best Regards
-<img src="https://github.com/bersonvladimir/bersonvladimir/blob/main/best_regards_01.gif?raw=true" alt="berson photo" width="100%"> <br>
-  
