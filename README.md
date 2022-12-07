@@ -1,31 +1,29 @@
-## Hi there, I'm Vladimir Berson
-
 <p align="center">
-    <img width="200" src="http://material-bread.org/logo-shadow.svg" alt="Berson.io">
+<h1>Vladimir Berson</h1>
+</p>
+<p align="center">
+    <img width="200" src="https://github.com/bersonio/bersonio/blob/main/berson.io%20logo.png?raw=true" alt="Berson.io">
+</p>
+<p align="center">
+<b>Get Ready For Success 🚀</b> <br>
+<b>“Every Moment is a Fresh Beginning”</b>
 </p>
 
 <p align="center">
-Get Ready For Success 🚀 <br>
-“Every Moment is a Fresh Beginning”
+I'm an Israel-based businessman, digital creator and cyber security specialist<br>
+and active volunteer dedicated to building a strong international partnership.<br>
+Founder and CEO of <a href="https://pumalabs.io/">Puma Labs</a> and Co-Founder and CEO of <a href="https://bizonfund.com/">Bizon Fund</a>
 </p>
 
-#### Briefly About Me:
- 
-I am a Businessman with a Cyber Security background from Haifa, Israel. <br>
-Founder and CEO of <a href="https://pumalabs.io/">PumaLabs</a> — boutique studio of Web and App development, <br>
-Co-Founder and CEO of <a href="https://bizonfund.com/">Bizon Fund</a> — Investment Fund, <br>
 
-#### For any business proposal сonnect with me:
-My email: <label for="email">v@berson.io</label> <br>
-Phone: +972 547 999 309
-
-#### Follow me on social media:
+<p align="center">
+<b>Follow me on social media:</b> <br>
   
 <a href="https://www.linkedin.com/in/bersonio/">
 <img src="https://www.picng.com/upload/linkedin/png_linkedin_64396.png" style="width:35px;height:35px;">
 
-<a href="https://twitter.com/ber_io">
-<img src="https://www.pngkey.com/png/full/2-27646_twitter-logo-png-transparent-background-logo-twitter-png.png" 
+<a href="https://www.tiktok.com/@berson.io">
+<img src="https://e7.pngegg.com/pngimages/545/550/png-clipart-tik-tok-icon-circle-tech-companies-thumbnail.png" 
 style="width:35px;height:35px;">
 
 <a href="https://www.youtube.com/@Bersonio">
@@ -38,4 +36,12 @@ style="width:35px;height:35px;">
 <a href="https://www.instagram.com/berson.io/">
 <img src="https://www.pngmart.com/files/13/Instagram-Logo-PNG-Image-1.png" 
 style="width:35px;height:35px;">
+
+<a href="https://t.me/bersonio">
+<img src="https://cdn3.iconfinder.com/data/icons/popular-services-brands-vol-2/512/telegram-512.png" 
+style="width:35px;height:35px;">
   
+</p>
+<p align="center">
+<b>v@berson.io & +972 547 999 309</b>
+</p>
