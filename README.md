@@ -1,6 +1,4 @@
-<p align="center">
-    <b>Vladimir Berson</b>
-</p>
+
 <p align="center">
     <img width="200" src="https://github.com/bersonio/bersonio/blob/main/berson.io%20logo.png?raw=true" alt="Berson.io">
 </p>
