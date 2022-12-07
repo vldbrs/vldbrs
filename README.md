@@ -1,5 +1,14 @@
 ## Hi there, I'm Vladimir Berson
 
+<p align="center">
+    <img width="200" src="http://material-bread.org/logo-shadow.svg" alt="Berson.io">
+</p>
+
+<p align="center">
+Get Ready For Success 🚀 <br>
+“Every Moment is a Fresh Beginning”
+</p>
+
 #### Briefly About Me:
  
 I am a Businessman with a Cyber Security background from Haifa, Israel. <br>
