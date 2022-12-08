@@ -2,6 +2,7 @@
 <p align="center">
     <img width="200" src="https://github.com/bersonio/bersonio/blob/main/berson.io%20logo.png?raw=true" alt="Berson.io">
 </p>
+
 <p align="center">
 <b>Get Ready For Success 🚀</b> <br>
 <b>“Every Moment is a Fresh Beginning”</b>
