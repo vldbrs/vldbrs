@@ -1,3 +1,6 @@
+<p align="center">
+    <img width="250" src="https://github.com/bersonio/bersonio/blob/46c89926e88768b2e3b01c254c9c634bb852b2b4/Vladimir-Berson-1-black-high-res.png" alt="Vladimir Berson">
+</p>
 
 <p align="center">
     <img width="200" src="https://github.com/bersonio/bersonio/blob/main/berson.io%20logo.png?raw=true" alt="Berson.io">
