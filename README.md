@@ -8,9 +8,9 @@
 </p>
 
 <p align="center">
-I'm an Israel-based businessman, digital creator, cyber security specialist,<br>
-and active volunteer dedicated to building a strong international partnership.<br>
-Founder and CEO of <a href="https://pumalabs.io/">Puma Labs</a> and Co-Founder and CEO of <a href="https://bizonfund.com/">Bizon Fund</a>
+I'm an Israel-based businessman, innovation leader, cyber security specialist,<br>
+dedicated to building a strong international partnership,<br>
+Founder and CEO of <a href="https://pumalabs.io/">Puma Labs</a>
 </p>
 
 
