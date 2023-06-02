@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-I'm an Israel-based Entrepreneur, innovation leader, cyber security specialist,<br>
+I'm an Israel-based Entrepreneur, innovation leader,<br>
 dedicated to building a strong international partnership,<br>
 Founder and CEO of <a href="https://pumalabs.io/">Puma Labs</a>
 </p>
