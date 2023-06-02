@@ -42,7 +42,7 @@ style="width:50px;height:50px;">
   
 </p>
 <p align="center">
-<b>v@berson.io & +972 547 999 309</b>
+<b>v@berson.io</b>
 </p>
 
 <p align="center">
