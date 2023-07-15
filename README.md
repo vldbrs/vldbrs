@@ -11,7 +11,7 @@
 I'm Entrepreneur from Haifa, throughout my career, I have had the privilege of navigating the diverse business landscapes of different countries, gaining valuable insights and expertise along the way. From Europe to Asia and Israel, I have been actively involved in managing businesses in the dynamic fields of technology, investments, and tourism. <br>
 
 <p align="left">
-As an innovation leader, I always strive to solve any problem with technological solutions. That's why I founded <a href="https://pumalabs.io/">PumaLabs.io</a> because I believe  that technology has the power to transform businesses, improve efficiency, and enhance the overall human experience. That's why we collaborate closely with our clients, understanding their specific needs and goals, and tailor our solutions to meet their unique requirements.<br>
+As an innovation leader, I always strive to solve any problem with technological solutions. That's why I founded <a href="https://pumalabs.io/">PumaLabs.io</a> because i believe  that technology has the power to transform businesses, improve efficiency, and enhance the overall human experience. That's why we collaborate closely with our clients, understanding their specific needs and goals, and tailor our solutions to meet their unique requirements.<br>
 </p>
 
 
