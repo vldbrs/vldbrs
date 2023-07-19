@@ -19,11 +19,6 @@ If you are looking for a forward-thinking and results-oriented professional, I i
 </p>
 
 <p align="center">
-Get Ready For Success 🚀 <br>
-“Every Moment is a Fresh Beginning” <br>
-</p>
-
-<p align="center">
 <b>Follow me on social media:</b> <br>
     <br>
   
