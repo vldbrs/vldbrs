@@ -7,34 +7,8 @@
 <b>“Every Moment is a Fresh Beginning”</b>
 </p>
  <br>
-<p align="left">
+<p align="center">
 Vladimir Berson: Visionary entrepreneur, global leader, and founder of Puma Labs, Transforming industries with innovation, client-centric solutions, and a commitment to a brighter tech-driven future. <br>
-
-<p align="left">
-In a world where innovation and technology drive the business landscape, Vladimir Berson stands out as an entrepreneur who has successfully navigated diverse industries across various countries, leaving an indelible mark on the realms of technology, investments, and tourism. With a global perspective and a passion for solving complex challenges, Vladimir Berson has founded PumaLabs.io, a testament to his unwavering commitment to harnessing technology's potential for transformative change. <br>
-</p>
-
-<p align="left">
-Hailing from Haifa, Vladimir Berson is not just an entrepreneur; he's a visionary leader who has embraced opportunities across Europe, Asia, and Israel. This journey has provided him with a unique vantage point, allowing him to gather invaluable insights and expertise from different corners of the globe. <br>
-</p>
-
-<p align="left">
-What truly sets Vladimir Berson apart is his firm belief in the power of technology to revolutionize industries and elevate human experiences. This belief materialized in the form of PumaLabs.io, a platform that encapsulates Vladimir Berson's mission to drive innovation through technology. This endeavor is a testament to his resolute commitment to transform businesses, enhance efficiency, and ultimately make a positive impact on the world. <br>
-</p>
-
-<p align="left">
-Central to Vladimir Berson's approach is his dedication to clients. By engaging closely with clients and delving into their specific needs and objectives, he exemplifies a deep understanding of the importance of tailor-made solutions. This client-centric ethos underpins Vladimir Berson's ability to create meaningful change that is not only technologically advanced but also precisely aligned with the unique requirements of each client. <br>
-</p>
-
-<p align="left">
-The invitation to collaborate with Vladimir Berson reflects his open-mindedness and eagerness to work with others to shape the future. With a forward-thinking and results-oriented mindset, he is poised to continue making waves in the entrepreneurial sphere, pushing boundaries, and driving progress. <br>
-</p>
-
-<p align="left">
-In a world that is rapidly evolving, Vladimir Berson stands as a beacon of innovation, a catalyst for change, and a testament to the idea that technology, when harnessed thoughtfully, can pave the way for a brighter future. As he leads the charge towards a tech-driven tomorrow, his journey serves as an inspiration to entrepreneurs and visionaries alike, demonstrating how a passion for innovation can redefine industries and shape the course of business. <br>
-</p>
-
-<br>
 
 <p align="center">
 <b>Follow me on social media:</b> <br>
