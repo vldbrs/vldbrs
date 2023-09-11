@@ -11,6 +11,9 @@
 Vladimir Berson: Visionary entrepreneur, global leader, and founder of Puma Labs, Transforming industries with innovation, client-centric solutions, and a commitment to a brighter tech-driven future. <br>
 
 <p align="center">
+Transforming industries with innovation, client-centric solutions, and a commitment to a brighter tech-driven future. <br>
+
+<p align="center">
 <b>Follow me on social media:</b> <br>
     <br>
   
