@@ -35,7 +35,7 @@ style="width:50px;height:50px;">
 <img src="https://www.pngmart.com/files/13/Instagram-Logo-PNG-Image-1.png" 
 style="width:50px;height:50px;">
 
-<a href="https://t.me/hellexpert">
+<a href="https://t.me/bersonio">
 <img src="https://cdn3.iconfinder.com/data/icons/popular-services-brands-vol-2/512/telegram-512.png" 
 style="width:50px;height:50px;">
   
