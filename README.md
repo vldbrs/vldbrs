@@ -41,7 +41,7 @@ style="width:50px;height:50px;">
   
 </p>
 <p align="center">
-<b>v@berson.io</b>
+<a href = "https://berson.io/"><b>Berson.io</b></a>
 </p>
 
 <p align="center">
