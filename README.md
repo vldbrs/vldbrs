@@ -8,7 +8,7 @@
 </p>
  <br>
 <p align="center">
-Vladimir Berson: Visionary entrepreneur, global leader, and founder of Puma Labs, <br>
+Vladimir Berson: Visionary entrepreneur, global leader, and founder of <a href = "https://github.com/Puma-Labs"><b>Puma Labs</b></a>, <br>
 
 <p align="center">
 Transforming industries with innovation, client-centric solutions, and a commitment to a brighter tech-driven future. <br>
