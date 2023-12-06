@@ -2,10 +2,6 @@
     <img width="200" src="https://github.com/bersonio/bersonio/blob/main/berson.io%20logo.png?raw=true" alt="berson.io">
 </p>
 
-<p align="center">
-<b>Get Ready For Success 🚀</b> <br>
-<b>“Every Moment is a Fresh Beginning”</b>
-</p>
  <br>
 <p align="center">
 Vladimir Berson: Visionary entrepreneur, global leader, and founder of <a href = "https://github.com/Puma-Labs"><b>Puma Labs</b></a>, <br>
@@ -42,6 +38,13 @@ style="width:50px;height:50px;">
 </p>
 <p align="center">
 <a href = "https://berson.io/"><b>Berson.io</b></a>
+</p>
+
+<br>
+
+<p align="center">
+<b>Get Ready For Success 🚀</b> <br>
+<b>“Every Moment is a Fresh Beginning”</b>
 </p>
 
 <p align="center">
