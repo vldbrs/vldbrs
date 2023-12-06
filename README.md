@@ -23,13 +23,6 @@ style="width:50px;height:50px;">
 <a href="https://www.youtube.com/@Bersonio">
 <img src="https://i.pinimg.com/originals/6a/42/04/6a4204f04496559aa27101d25983d0f0.png" style="width:50px;height:50px;">
   
-<a href="https://www.facebook.com/berson.io/">
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Facebook_Logo_%282019%29.png/1024px-Facebook_Logo_%282019%29.png" 
-style="width:50px;height:50px;">
-
-<a href="https://www.instagram.com/berson.io/">
-<img src="https://www.pngmart.com/files/13/Instagram-Logo-PNG-Image-1.png" 
-style="width:50px;height:50px;">
 
 <a href="https://t.me/bersonio">
 <img src="https://cdn3.iconfinder.com/data/icons/popular-services-brands-vol-2/512/telegram-512.png" 
