@@ -1,4 +1,9 @@
 <p align="center">
+<a href="https://berson.io/">
+<img src="https://github.com/bersonio/bersonio/blob/main/berson.io%20logo.png" style="width:120px;height:120px;">
+</p>
+
+<p align="center">
     <img width="120" src="https://github.com/bersonio/bersonio/blob/main/berson.io%20logo.png?raw=true" alt="berson.io">
 </p>
 
