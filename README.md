@@ -30,7 +30,9 @@ style="width:50px;height:50px;">
 
 <a href="https://www.youtube.com/@Bersonio">
 <img src="https://i.pinimg.com/originals/6a/42/04/6a4204f04496559aa27101d25983d0f0.png" style="width:50px;height:50px;">
-  
+
+<a href="https://www.reddit.com/user/bersonio">
+<img src="https://cdn3.iconfinder.com/data/icons/2018-social-media-logotypes/1000/2018_social_media_popular_app_logo_reddit-512.png" style="width:50px;height:50px;">
 
 <a href="https://t.me/bersonio">
 <img src="https://cdn3.iconfinder.com/data/icons/popular-services-brands-vol-2/512/telegram-512.png" 
