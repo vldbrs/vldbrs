@@ -8,7 +8,15 @@ Vladimir Berson: Visionary entrepreneur, global leader, and founder of <a href =
 
 <p align="center">
 Transforming industries with innovation, client-centric solutions, and a commitment to a brighter tech-driven future. <br>
- <br>
+    
+<br>
+
+</p>
+<p align="center">
+<a href = "https://berson.io/emeeting/"><b>Book a Emeeting</b></a>
+</p>
+
+    
 <p align="center">
 <b>Follow me on social media:</b> <br>
     <br>
@@ -27,12 +35,8 @@ style="width:50px;height:50px;">
 <a href="https://t.me/bersonio">
 <img src="https://cdn3.iconfinder.com/data/icons/popular-services-brands-vol-2/512/telegram-512.png" 
 style="width:50px;height:50px;">
-  
-</p>
-<p align="center">
-<a href = "https://berson.io/"><b>Berson.io</b></a>
-</p>
 
+<br>
 <br>
 
 <p align="center">
@@ -42,9 +46,4 @@ style="width:50px;height:50px;">
 
 <p align="center">
     <img width="200" src="https://github.com/bersonio/bersonio/blob/46c89926e88768b2e3b01c254c9c634bb852b2b4/Vladimir-Berson-1-black-high-res.png" alt="Vladimir Berson">
-</p>
-
-</p>
-<p align="center">
-<a href = "https://berson.io/emeeting/"><b>Book a Emeeting</b></a>
 </p>
