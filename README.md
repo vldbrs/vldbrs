@@ -3,10 +3,6 @@
 <img src="https://github.com/bersonio/bersonio/blob/main/berson.io%20logo.png" style="width:120px;height:120px;">
 </p>
 
-<p align="center">
-    <img width="120" src="https://github.com/bersonio/bersonio/blob/main/berson.io%20logo.png?raw=true" alt="berson.io">
-</p>
-
  <br>
 <p align="center">
 Vladimir Berson: Visionary entrepreneur, global leader, and founder of <a href = "https://github.com/Puma-Labs"><b>Puma Labs</b></a>, <br>
