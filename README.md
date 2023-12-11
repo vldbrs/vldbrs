@@ -1,5 +1,5 @@
 <p align="center">
-    <img width="200" src="https://github.com/bersonio/bersonio/blob/main/berson.io%20logo.png?raw=true" alt="berson.io">
+    <img width="120" src="https://github.com/bersonio/bersonio/blob/main/berson.io%20logo.png?raw=true" alt="berson.io">
 </p>
 
  <br>
