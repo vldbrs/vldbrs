@@ -1,14 +1,17 @@
 <p align="center">
 <a href="https://berson.io/">
-<img src="https://github.com/bersonio/bersonio/blob/main/berson.io%20logo.png" style="width:120px;height:120px;">
+<img src="https://github.com/bersonio/bersonio/blob/main/123.png" style="width:150px;height:150px;">
 </p>
 
- <br>
+<br>
 <p align="center">
-Vladimir Berson: Visionary entrepreneur, global leader, and founder of <a href = "https://github.com/Puma-Labs"><b>Puma Labs</b></a>, <br>
-
+Innovation Leader 🚀</a> <br>
 <p align="center">
-Transforming industries with innovation, client-centric solutions, and a commitment to a brighter tech-driven future. <br>
+Entrepreneur from Haifa 🐗 <br>
+<p align="center">
+Nonprofit & Political Activist ⚔️ <br>
+<p align="center">
+<a href = "https://twitter.com/VladimirBerson"><b>Twitter</b></a> | <a href = "https://www.linkedin.com/in/bersonio/"><b>LinkedIn</b></a> | <a href = "https://www.reddit.com/user/bersonio/"><b>Reddit</b></a> <br>
     
 <br>
 
