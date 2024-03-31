@@ -3,7 +3,7 @@
 <img src="https://github.com/bersonio/bersonio/blob/main/321.png" style="width:250px;height:80px;">
 </p>
 
-<br>
+
 <p align="center">
 Innovation Leader 🚀</a> <br>
 <p align="center">
