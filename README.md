@@ -5,11 +5,9 @@
 
 
 <p align="center">
-Innovation Leader 🚀</a> <br>
+🚀 Innovation Leader | NPO Activist ⚔️</a> <br>
 <p align="center">
 Entrepreneur from Haifa 🐗 <br>
-<p align="center">
-Nonprofit & Political Activist ⚔️ <br>
 <p align="center">
 <a href = "https://twitter.com/VladimirBerson"><b>Twitter</b></a> | <a href = "https://www.linkedin.com/in/bersonio/"><b>LinkedIn</b></a> | <a href = "https://www.reddit.com/user/bersonio/"><b>Reddit</b></a> <br>
     
