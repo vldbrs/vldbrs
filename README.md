@@ -9,7 +9,12 @@
 
 <p align="center">
 <a href = "https://twitter.com/VladimirBerson"><b>Twitter</b></a> | <a href = "https://www.linkedin.com/in/bersonio/"><b>LinkedIn</b></a> | <a href = "https://www.reddit.com/user/bersonio/"><b>Reddit</b></a> <br>
-    
+
+<br>
+
+<p align="center">
+<a>With extensive experience across various sectors, including IT, entrepreneurship, and NPO activism, I am now pivoting my career towards cybersecurity. My technical background, coupled with leadership roles and a passion for technology, equips me with a unique perspective and skill set to excel in cybersecurity. I am eager to leverage my IT expertise and strong problem-solving abilities to protect digital landscapes and contribute to a secure cyber environment.</a> <br>
+
 <br>
 
 </p>
@@ -17,9 +22,9 @@
 <a href = "https://berson.io/emeeting/"><b>Book a Emeeting</b></a>
 </p>
 
-<br>
 
 <p align="center">
-<b>Get Ready For Success 🚀</b> <br>
+<b>Get Ready For Success</b> <br>
 <b>“Every Moment is a Fresh Beginning”</b>
 </p>
+
