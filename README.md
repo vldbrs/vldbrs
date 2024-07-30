@@ -5,7 +5,7 @@
 
 
 <p align="center">
-🚀 IT Entrepreneur | NPO Activist ⚔️</a> <br>
+IT Entrepreneur | NPO Activist </a> <br>
 
 <br>
 
@@ -16,7 +16,7 @@
 
 </p>
 <p align="center">
-<a href = "https://berson.io/emeeting/"><b>Book a Emeeting</b></a>
+<a href = "https://calendar.app.google/NFkThCGpSLE5ER4JA"><b>Book a Emeeting</b></a>
 </p>
 
 
