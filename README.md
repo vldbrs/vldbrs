@@ -5,7 +5,7 @@
 
 
 <p align="center">
-IT Entrepreneur | NPO Activist </a> <br>
+IT Leader & Product R&D Expert | Cybersecurity Enthusiast</a> <br>
 
 <br>
 
