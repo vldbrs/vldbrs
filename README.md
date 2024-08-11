@@ -30,10 +30,10 @@
 <br>
 
 <p align="center">
-    <a href="https://www.coursera.org/account/accomplishments/specialization/certificate/8P6XKCQF2HXV" target="_blank" rel="noopener noreferrer">
-        <img src="https://github.com/bersonio/bersonio/blob/main/googleitsupport.png" style="width:200px;height:200px;">
-    </a>
-</p>
+        <a href="https://www.coursera.org/account/accomplishments/specialization/certificate/8P6XKCQF2HXV" target="_blank" rel="noopener noreferrer">
+            <img src="https://github.com/bersonio/bersonio/blob/main/googleitsupport.png" style="width:200px;height:200px;">
+        </a>
+    </p>
 
 <br>
 
