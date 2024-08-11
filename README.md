@@ -1,3 +1,10 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTC+3">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+</head>
+
 <p align="center">
     <a href="https://berson.io/">
         <img src="https://github.com/bersonio/bersonio/blob/main/VB.png" style="width:550px;height:70px;">
