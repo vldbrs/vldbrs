@@ -1,6 +1,6 @@
 <p align="center">
 <a href="https://berson.io/">
-<img src="https://github.com/bersonio/bersonio/blob/main/VB.png" style="width:600px;height:80px;">
+<img src="https://github.com/bersonio/bersonio/blob/main/VB.png" style="width:550px;height:70px;">
 </p>
 
 
