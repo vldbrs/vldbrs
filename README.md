@@ -22,7 +22,6 @@ Licenses & Certifications</p> <br>
     </a>
 </p>
 
-
 <br>
 
 </p>
