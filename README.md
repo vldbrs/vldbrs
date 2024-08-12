@@ -102,9 +102,9 @@
     </a>
 </p>
 
-<p align="center">
-    <a href="https://calendar.app.google/NFkThCGpSLE5ER4JA"><b>Book a Emeeting</b></a>
-</p>
+<h4 align="center">
+    <a href="https://calendar.app.google/NFkThCGpSLE5ER4JA"><b>Book a eMeeting</b></a>
+</h4>
 
 <p align="center">
     <b>Get Ready For Success</b> <br>
