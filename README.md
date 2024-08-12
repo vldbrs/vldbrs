@@ -48,6 +48,15 @@
 </p>
 
 <p align="center">
+    <img src="https://img.shields.io/badge/Airtable-18BFFF?style=for-the-badge&logo=Airtable&logoColor=white" alt="AirTable">
+    <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Notion">    
+    <img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white" alt="Trello">
+    <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white" alt="Jira">   
+    <img src="https://img.shields.io/badge/VirtualBox-183A61?logo=virtualbox&logoColor=white&style=for-the-badge" alt="VirtualBox">
+    <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
+</p>
+
+<p align="center">
     <img src="https://img.shields.io/badge/freebsd-AB2B28?style=for-the-badge&logo=freebsd&logoColor=white" alt="FreeBSD">
     <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" alt="KaliLinux">
     <img src="https://img.shields.io/badge/Tails%20-56347C?&style=for-the-badge&logo=tails&logoColor=white" alt="Tails">    
@@ -93,9 +102,6 @@
     </a>
 </p>
 
-This code adds the ProtonMail button and links it to your email address. When users click the button, it will open their email client to send you an email.
-
-
 <p align="center">
     <a href="https://calendar.app.google/NFkThCGpSLE5ER4JA"><b>Book a Emeeting</b></a>
 </p>
@@ -103,4 +109,10 @@ This code adds the ProtonMail button and links it to your email address. When us
 <p align="center">
     <b>Get Ready For Success</b> <br>
     <b>“Every Moment is a Fresh Beginning”</b>
+</p>
+
+<br>
+
+<p align="center">
+   <img src="https://github-readme-stats.vercel.app/api?username=bersonio&theme=blue-green" alt="Telegram Profile">
 </p>
