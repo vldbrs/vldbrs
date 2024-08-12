@@ -24,6 +24,17 @@
 <br>
 
 <p align="center">
+    <b>Skills</b>
+</p> 
+
+<p align="center">
+    <img src="https://img.shields.io/badge/freebsd-AB2B28?style=for-the-badge&logo=freebsd&logoColor=white" alt="FreeBSD">
+    <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" alt="KaliLinux">
+</p>
+
+<br>
+
+<p align="center">
     <b>Licenses & Certifications</b>
 </p> 
 
