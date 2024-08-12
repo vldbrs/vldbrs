@@ -6,8 +6,12 @@
 </head>
 
 <p align="center">
-    <a href="https://berson.io/">
-        <img src="https://github.com/bersonio/bersonio/blob/main/VB.png" style="width:550px;height:70px;">
+   
+</p>
+
+<p align="center">
+      <img src="https://github.com/bersonio/bersonio/blob/main/VB.png" style="width:550px;height:70px;">
+      <img src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" width="60" height="auto">
     </a>
 </p>
 
@@ -79,11 +83,7 @@
     <b>“Every Moment is a Fresh Beginning”</b>
 </p>
 
-<br>
-
 <p align="center">
-    <img src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif">
-   <img src="https://github-readme-stats.vercel.app/api?username=bersonio&theme=blue-green" alt="Telegram Profile">
-   <img src="https://github.com/bersonio/bersonio/blob/main/github-user-contribution.svg" alt="githubcontribution">
+   <img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif">
 </p>
 
