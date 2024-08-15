@@ -23,7 +23,7 @@
 <br>
 
 <p align="left">
-    With extensive experience across various sectors, including IT, entrepreneurship, and NPO activism, I am now pivoting my career towards cybersecurity. My technical background, coupled with leadership roles and a passion for technology, equips me with a unique perspective and skill set to excel in cybersecurity. I am eager to leverage my IT expertise and strong problem-solving abilities to protect digital landscapes and contribute to a secure cyber environment. 
+    As the Founder & IT Entrepreneur at Puma Labs, I bring extensive experience across IT, entrepreneurship, and NPO activism. Now, I’m channeling my expertise and passion into the field of cybersecurity. My technical background, combined with leadership in product R&D, gives me a unique vantage point to address today’s digital security challenges. I am driven by a commitment to protecting digital landscapes and advocating for stronger cybersecurity practices. With a strong problem-solving mindset and a deep understanding of technology, I’m eager to contribute to building a safer, more resilient cyber environment. 
 </p> 
 
 <br>
