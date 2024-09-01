@@ -107,7 +107,7 @@
 </p>
 
 <h4 align="center">
-    <a href="https://calendar.app.google/NFkThCGpSLE5ER4JA"><b>Book a eMeeting</b></a>
+    <a href="https://calendar.app.google/mxvdxM6nsE1jvqMu6"><b>Book a eMeeting</b></a>
 </h4>
 
 <p align="center">
