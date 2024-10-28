@@ -23,7 +23,7 @@
 <br>
 
 <p align="left">
-    As the Founder & IT Entrepreneur at Puma Labs, I bring extensive experience across IT, entrepreneurship, and NPO activism. Now, I’m channeling my expertise and passion into the field of cybersecurity. My technical background, combined with leadership in product R&D, gives me a unique vantage point to address today’s digital security challenges. I am driven by a commitment to protecting digital landscapes and advocating for stronger cybersecurity practices. With a strong problem-solving mindset and a deep understanding of technology, I’m eager to contribute to building a safer, more resilient cyber environment. 
+    As the Founder & CEO at Puma Labs, I bring extensive experience across IT, entrepreneurship, and NPO activism. Now, I’m channeling my expertise and passion into the field of cybersecurity. My technical background, combined with leadership in product R&D, gives me a unique vantage point to address today’s digital security challenges. I am driven by a commitment to protecting digital landscapes and advocating for stronger cybersecurity practices. With a strong problem-solving mindset and a deep understanding of technology, I’m eager to contribute to building a safer, more resilient cyber environment. 
 </p> 
 
 <br>
