@@ -104,7 +104,7 @@
     <a href="https://t.me/vladimirberson" target="_blank">
         <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Profile">
     </a>
-    <a href="mailto:vladimir.berson@proton.me" target="_blank">
+    <a href="mailto:vldbrs@pm.me" target="_blank">
         <img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" alt="ProtonMail Contact">
     </a>
 </p>
