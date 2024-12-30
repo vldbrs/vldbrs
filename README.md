@@ -95,7 +95,7 @@
 </p>
 
 <p align="center">
-    <a href="https://www.linkedin.com/in/bersonio/" target="_blank">
+    <a href="https://www.linkedin.com/in/vldbrs/" target="_blank">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile">
     </a>
     <a href="https://wa.me/972547999309" target="_blank">
