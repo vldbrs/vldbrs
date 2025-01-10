@@ -74,7 +74,7 @@ With a problem-solving mindset and a passion for innovation, I aim to contribute
     <b>📊 GitHub Stats</b>
 </p> 
 <p align="center">
-   <img src="https://github-readme-streak-stats.herokuapp.com/?user=vldbrs&theme=default&hide_border=true" style="width:430px;height:auto;">
+   <img src="https://github-readme-streak-stats.herokuapp.com/?user=vldbrs&theme=default&hide_border=true" style="width:350px;height:auto;">
 </p>
 
 <br>
