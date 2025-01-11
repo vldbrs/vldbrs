@@ -16,18 +16,18 @@
 </p>
 
 <p align="center">
-    <b>Cybersecurity Advocate | Technology Leader</b><br>
+    <b>Cybersecurity Professional | Exploring RF, IoT, and Digital Infrastructure Security</b><br>
  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif">
 </p> 
        
 <br>
 
 <p align="left">
-    As the Founder and IT Entrepreneur at Puma Labs, I bring over a decade of experience in IT, entrepreneurship, and NPO activism. My journey has led me to specialize in the dynamic field of cybersecurity, with a current focus on RF security, IoT, and protecting critical infrastructures.
+I am deeply passionate about cybersecurity and continuously expanding my knowledge in areas such as RF technologies, IoT systems, and the protection of critical infrastructures, including web and application security. My journey is driven by a curiosity to understand the complexities of modern technology and explore how it can be better secured against evolving threats.
 
-Throughout my career, I have successfully led R&D projects, developed digital solutions, and advocated for stronger cybersecurity practices. One of my recent initiatives includes designing tools to enhance organizational security in an increasingly digital landscape.
+Currently, I dedicate my time to studying advanced cybersecurity concepts, learning about securing digital infrastructures, and mastering tools to address challenges in the digital landscape. My focus is on developing a strong foundation to effectively navigate this dynamic and ever-changing field.
 
-With a problem-solving mindset and a passion for innovation, I aim to contribute to building a safer, more resilient cyber environment. Let’s connect to discuss how we can tackle today’s cybersecurity challenges together!
+With a problem-solving mindset and a commitment to growth, I strive to contribute to building a safer and more resilient cyber environment. Let's connect and exchange ideas to tackle today's technological challenges together!
 </p> 
 
 <br>
