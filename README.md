@@ -105,7 +105,7 @@ With a problem-solving mindset and a commitment to growth, I strive to contribut
     <a href="https://wa.me/972547999309" target="_blank">
         <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp Contact">
     </a>
-    <a href="https://t.me/vladimirberson" target="_blank">
+    <a href="https://t.me/vld_brs" target="_blank">
         <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Profile">
     </a>
     <a href="mailto:vldbrs@pm.me" target="_blank">
