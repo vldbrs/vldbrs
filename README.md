@@ -5,14 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 </head>
 
-<p align="center">
-   
-</p>
-
-<p align="center">
-      <img src="https://github.com/bersonio/bersonio/blob/main/VLDBRS.png" style="width:200px;height:auto;">
-    </a>
-</p>
+<h2 align="center">D371L</h2>
 
 <p align="center">
     <b>CEO & Cybersecurity Specialist | AppSec, IoT & RF Security</b><br>
