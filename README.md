@@ -76,10 +76,8 @@ With a problem-solving mindset and a commitment to growth, I strive to contribut
 </p> 
 
 <p align="center">
-        <a href="https://www.coursera.org/account/accomplishments/specialization/certificate/8P6XKCQF2HXV" target="_blank" rel="noopener noreferrer">
             <img src="https://github.com/bersonio/bersonio/blob/main/googleitsupport.png" style="width:120px;height:120px;">
         </a>
-         <a href="https://www.coursera.org/account/accomplishments/specialization/certificate/77KP6WBEMGMS" target="_blank" rel="noopener noreferrer">
             <img src="https://github.com/bersonio/bersonio/blob/main/googlecyber.png" style="width:120px;height:120px;">
         </a>
 </p>
@@ -104,10 +102,6 @@ With a problem-solving mindset and a commitment to growth, I strive to contribut
         <img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" alt="ProtonMail Contact">
     </a>
 </p>
-
-<h4 align="center">
-    <a href="https://calendar.app.google/mxvdxM6nsE1jvqMu6"><b>Book a eMeeting</b></a>
-</h4>
 
 <p align="center">
     <b>Get Ready For Success</b> <br>
