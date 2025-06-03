@@ -8,18 +8,18 @@
 <h2 align="center">D371L</h2>
 
 <p align="center">
-    <b>CEO & Cybersecurity Specialist | AppSec, IoT & RF Security</b><br>
+    <b>CEO | Strategic Leader in Cybersecurity | OSINT · AppSec · IoT · RF Security</b><br>
  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif">
 </p> 
        
 <br>
 
 <p align="left">
-I am deeply passionate about cybersecurity and continuously expanding my knowledge in areas such as RF technologies, IoT systems, and the protection of critical infrastructures, including web and application security. My journey is driven by a curiosity to understand the complexities of modern technology and explore how it can be better secured against evolving threats.
+As a cybersecurity-focused entrepreneur and CEO, I am dedicated to building innovative and resilient solutions that address the complex security challenges of today’s digital world. My expertise spans OSINT, Application Security, IoT ecosystems, and RF technologies with a strong emphasis on protecting critical infrastructure.
 
-Currently, I dedicate my time to studying advanced cybersecurity concepts, learning about securing digital infrastructures, and mastering tools to address challenges in the digital landscape. My focus is on developing a strong foundation to effectively navigate this dynamic and ever-changing field.
+I combine a deep technical understanding with strategic leadership to drive projects forward, whether it is launching secure platforms, leading security assessments, or fostering collaboration across disciplines. My work is guided by a clear mission to bridge cutting-edge cybersecurity knowledge with practical implementation that protects people, businesses, and systems.
 
-With a problem-solving mindset and a commitment to growth, I strive to contribute to building a safer and more resilient cyber environment. Let's connect and exchange ideas to tackle today's technological challenges together!
+I am always open to meaningful conversations about technology, entrepreneurship, and securing our digital future. Let’s connect and create solutions that make a difference.
 </p> 
 
 <br>
