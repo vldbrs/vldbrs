@@ -25,19 +25,6 @@ I am always open to meaningful conversations about technology, entrepreneurship,
 <br>
 
 <p align="center">
-    <b>Contact Me</b>
-</p>
-
-<p align="center">
-    <a href="https://www.linkedin.com/in/444556494c/" target="_blank">
-        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile">
-    </a>
-    <a href="mailto:D371L@pm.me" target="_blank">
-        <img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" alt="ProtonMail Contact">
-    </a>
-</p>
-
-<p align="center">
     <b>“Trust, but verify.”</b>
 </p>
 
