@@ -11,12 +11,12 @@
   <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="300"/>
 </p>
 
-### 🌐 Building fireproof systems. Breaking weak ones.
+### Building fireproof systems. Breaking weak ones.
 
 I'm a cybersecurity engineer & strategic architect with a passion for uncovering hidden threats and designing secure infrastructures.  
 I operate at the crossroads of <b>intelligence</b>, <b>signal interception</b>, and <b>digital forensics</b>.
 
-### 🕶️ Areas of Focus
+### Areas of Focus
 
 - 🔍 <b>Open Source Intelligence (OSINT)</b>  
 - 🛡️ <b>Application & Platform Security</b>  
@@ -29,7 +29,7 @@ I operate at the crossroads of <b>intelligence</b>, <b>signal interception</b>, 
 
 <p align="center">
   <b>🧿 Want to collaborate?</b><br>
-  Just follow the 🔥 — <i>if you can.</i>
+  Just follow the 🔥 - <i>if you can.</i>
 </p>
 
 <p align="center">
