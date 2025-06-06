@@ -25,7 +25,7 @@ I operate at the crossroads of <b>intelligence</b>, <b>signal interception</b>, 
 
 <hr>
 
-<p align="center"><i>“Tech is my playground. Silence is my shield.”</i></p>
+<p align="center"><sub>Operating in silence. Focused on precision.</sub></p>
 
 <p align="center">
   <b>🧿 Want to collaborate?</b><br>
