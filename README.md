@@ -1,6 +1,6 @@
 <h2 align="center">🔥 D371L</h2>
 <p align="center"><b>👁️‍🗨️ Anonymous Strategist in Cybersecurity</b></p>
-<p align="center">OSINT · AppSec · IoT · RF Security · Digital Shadows · © 2025</p>
+<p align="center">OSINT · AppSec · IoT · RF Security · Digital Shadows</p>
 
 <p align="center">
   <i>“In a world of noise, silence is power.<br>
