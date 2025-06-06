@@ -1,35 +1,37 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTC-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-</head>
-
-<h2 align="center">D371L</h2>
+<h2 align="center">🔥 D371L</h2>
+<p align="center"><b>👁️‍🗨️ Anonymous Strategist in Cybersecurity</b></p>
+<p align="center">OSINT · AppSec · IoT · RF Security · Digital Shadows · © 2025</p>
 
 <p align="center">
-    <b>CEO | Strategic Leader in Cybersecurity | OSINT · AppSec · IoT · RF Security</b><br>
- <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif">
-</p> 
-       
-<br>
-
-<p align="left">
-As a cybersecurity-focused entrepreneur and CEO, I am dedicated to building innovative and resilient solutions that address the complex security challenges of today’s digital world. My expertise spans OSINT, Application Security, IoT ecosystems, and RF technologies with a strong emphasis on protecting critical infrastructure.
-
-I combine a deep technical understanding with strategic leadership to drive projects forward, whether it is launching secure platforms, leading security assessments, or fostering collaboration across disciplines. My work is guided by a clear mission to bridge cutting-edge cybersecurity knowledge with practical implementation that protects people, businesses, and systems.
-
-I am always open to meaningful conversations about technology, entrepreneurship, and securing our digital future. Let’s connect and create solutions that make a difference.
-</p>           
-
-<br>
-
-<p align="center">
-    <b>“Trust, but verify.”</b>
+  <i>“In a world of noise, silence is power.<br>
+  In a world of lies, verification is a weapon.”</i>
 </p>
 
 <p align="center">
-   <img src="https://user-images.githubusercontent.com/74038190/214644145-264f4759-7633-441e-9d67-d8dda9d50d26.gif" style="width:230px;height:auto;">
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="300"/>
 </p>
 
+### 🌐 Building fireproof systems. Breaking weak ones.
 
+I'm a cybersecurity engineer & strategic architect with a passion for uncovering hidden threats and designing secure infrastructures.  
+I operate at the crossroads of <b>intelligence</b>, <b>signal interception</b>, and <b>digital forensics</b>.
+
+### 🕶️ Areas of Focus
+
+- 🔍 <b>Open Source Intelligence (OSINT)</b>  
+- 🛡️ <b>Application & Platform Security</b>  
+- 📡 <b>IoT & RF Signal Analysis</b>  
+- 🧠 <b>Threat Modeling & Red Team Ops</b>
+
+<hr>
+
+<p align="center"><i>“Tech is my playground. Silence is my shield.”</i></p>
+
+<p align="center">
+  <b>🧿 Want to collaborate?</b><br>
+  Just follow the 🔥 — <i>if you can.</i>
+</p>
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/214644145-264f4759-7633-441e-9d67-d8dda9d50d26.gif" width="220"/>
+</p>
